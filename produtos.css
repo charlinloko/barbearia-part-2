@@ -39,7 +39,7 @@ nav a:hover {
 	padding: 50px 0;
 }
 
-.produtos li {
+..produtos li {
 	display: inline-block;
 	text-align: center;
 	width: 30%;
@@ -51,12 +51,15 @@ nav a:hover {
 	border-radius: 10px;
 }
 
+;
+}
+
 .produtos li:hover {
 	border-color: #C78C19;
 }
 
 .produtos li:active {
-	border-color: #088C19;	
+	border-color: #088C19;
 }
 
 .produtos li:hover h2 {
